@@ -1,0 +1,1 @@
+Java is a versatile programming language. It is used for building enterprise applications, mobile apps, and large-scale systems.
