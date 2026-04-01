@@ -17,3 +17,5 @@ docx2txt
 unstructured[docx]
 langchain-experimental
 rank_bm25
+wikipedia
+python-magic-bin
