@@ -19,3 +19,6 @@ langchain-experimental
 rank_bm25
 wikipedia
 python-magic-bin
+PyMuPDF
+Pillow
+torch
